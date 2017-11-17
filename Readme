@@ -1,7 +1,7 @@
 This is licensed under GNU. Public Domain.
 
 WARNING:
-Please do not use the PID settings from this file, use your own.
+Please do not use the PID settings from this file, use your own. You should adjust each value individually.
 
 This is the line of code I used to fix the Marlin Thermal runway bug I was having.
 
